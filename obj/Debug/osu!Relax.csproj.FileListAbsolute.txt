@@ -1,0 +1,9 @@
+c:\users\quickpow\documents\visual studio 2015\Projects\osu!Relax\osu!Relax\bin\Debug\osu!Relax.exe.config
+c:\users\quickpow\documents\visual studio 2015\Projects\osu!Relax\osu!Relax\bin\Debug\osu!Relax.exe
+c:\users\quickpow\documents\visual studio 2015\Projects\osu!Relax\osu!Relax\bin\Debug\osu!Relax.pdb
+c:\users\quickpow\documents\visual studio 2015\Projects\osu!Relax\osu!Relax\obj\Debug\osu!Relax.csprojResolveAssemblyReference.cache
+c:\users\quickpow\documents\visual studio 2015\Projects\osu!Relax\osu!Relax\obj\Debug\osu_Relax.Form1.resources
+c:\users\quickpow\documents\visual studio 2015\Projects\osu!Relax\osu!Relax\obj\Debug\osu_Relax.Properties.Resources.resources
+c:\users\quickpow\documents\visual studio 2015\Projects\osu!Relax\osu!Relax\obj\Debug\osu!Relax.csproj.GenerateResource.Cache
+c:\users\quickpow\documents\visual studio 2015\Projects\osu!Relax\osu!Relax\obj\Debug\osu!Relax.exe
+c:\users\quickpow\documents\visual studio 2015\Projects\osu!Relax\osu!Relax\obj\Debug\osu!Relax.pdb
